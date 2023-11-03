@@ -1,0 +1,7 @@
+Reader Token:
+
+
+{
+  "username": "reader@nzwalks.com",
+  "password": "Reader@123"
+}
